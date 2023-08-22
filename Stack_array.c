@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define Max 5
+#define Max 10
 
 struct stack
 {
